@@ -1,0 +1,14 @@
+put on kettle
+decided how many cups to make (8oz each)
+open coffe bag
+	if bag is empty get more coffee
+	else spoon 3 spoonfulls of coffe per cup into press and 	lightly sprinkle nutmeg
+check water ever 3 minutes
+	if water is boiling take kettle off
+	else do nothing
+pour boiling water into press
+let sit for 5 minues
+slowly pour coffee into mug
+	if you take milk or sugar pour desired amount into mug and stir
+	else do nothing
+Enjoy you cup of coffee
